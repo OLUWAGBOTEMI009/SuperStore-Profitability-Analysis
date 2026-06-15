@@ -8,7 +8,7 @@ The goal of this project is to analyze the Sample Superstore dataset to identify
 
 The dataset is the **Sample Superstore** dataset from Tableau, containing 9,994 rows and 21 columns. It includes sales, profit, discount, customer and geographic data for a retail store. The data was loaded and cleaned in Python using Pandas.
 
-## Key Findings (3 bullets)
+## Key Findings
 
 1. **Technology generates the highest profit** among all product categories, while Furniture and Office Supplies show lower margins.
 
