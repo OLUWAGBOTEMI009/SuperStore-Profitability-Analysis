@@ -20,7 +20,8 @@ The dataset is the **Sample Superstore** dataset from Tableau, containing 9,994 
 
 Below is the **Profit by Product Sub‑Category** chart, which clearly shows the loss‑making sub‑categories (in red) and the most profitable ones (in green).
 
-![Profit by subcategory](profit_by_subcategory.png)
+<img width="1500" height="750" alt="profit_by_subcategory" src="https://github.com/user-attachments/assets/417f6b6b-8f38-4446-8013-1d44c710068e" />
+
 
 ## Additional Insights
 
